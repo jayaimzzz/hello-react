@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <React.Fragment>
-        <Text color="green" value="Kenzie" />
+        <Text color="pink" value="James Horton!" />
       </React.Fragment>
 
     );
